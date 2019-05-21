@@ -26,7 +26,8 @@ Schémas demandés :
     Diagrammes de séquences (création d’une commande, ajout d’un plat du jour, livraison d’une commande).
     
     ***English version***
-    Every day, ExpressFood prepares 2 dishes and 2 desserts at its HQ with the help of experienced chefs. These dishes are cold-packed and then sent to home delivery people who then "maraude" through the streets waiting for delivery. As soon as a customer has ordered, one of the deliverers (who already has the dishes in a bag) is assigned to deliver in less than 20 minutes.
+    Every day, ExpressFood prepares 2 dishes and 2 desserts at its HQ with the help of experienced chefs.
+    These dishes are cold-packed and then sent to home delivery people who then "maraude" through the streets waiting for delivery. As soon as a customer has ordered, one of the deliverers (who already has the dishes in a bag) is assigned to deliver in less than 20 minutes.
 
 On its application, ExpressFood offers its customers the opportunity to order one or more dishes and desserts. Shipping costs are free of charge. The dishes change every day.
 
